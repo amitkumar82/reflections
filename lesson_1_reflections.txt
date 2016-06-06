@@ -1,0 +1,13 @@
+git log
+
+output all the commits
+git commit
+
+commit a snapshot
+git diff
+
+differences between two commit
+
+extra parameter --stat
+
+what it does
